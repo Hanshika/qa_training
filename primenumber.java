@@ -19,6 +19,7 @@ public class primenumber {
 		      break;
 		   }
 		}
+		// new changes arrived by gomathy
 		//If isPrime is true then the number is prime else not
 		//second comment for to test git
 		if(isPrime)
