@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 public class primenumber {
-	
+	// check for git test
 	public static void main(String args[])
 	   {		
 		int temp;
