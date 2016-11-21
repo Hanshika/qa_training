@@ -9,7 +9,7 @@ public class hello {
 		System.out.println("hello gomathy");
 // added new comment line
 		//new line by gomathy
-		// added new line by vinodh
+		// added new line by gomathy
 	}
 
 }
